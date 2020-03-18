@@ -36,7 +36,7 @@ user
 ## Arquitetura
 A arquitetura do sistema I'm Here está disponível em:
 ```python
-https://drive.google.com/open?id=1YWCBff8xL6EzXzP9Holz-XvoHJOwvfVh
+https://drive.google.com/file/d/10ubiJOwSZ9qms9RPgN39ma9Wpf5fFvJj/view?usp=sharing
 ```
 
 ## Desenvolvido por:
